@@ -1,1 +1,3 @@
-print("Learning git")
+a=10
+if a%2==0:
+    print("even")
